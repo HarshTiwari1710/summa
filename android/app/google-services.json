@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "644607336102",
+    "project_id": "summazer-19d62",
+    "storage_bucket": "summazer-19d62.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644607336102:android:65cdaca6a6922a84809e67",
+        "android_client_info": {
+          "package_name": "com.mycompany.summ"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "644607336102-cdltiak2u5ksjrhcgcgioj71dkk470ev.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.summ",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "644607336102-po3c3b4877nampqnbc7lsef97g9n71r1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDInoMuDWN52zcy3xoXeHwPrVVFlGT33Jw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "644607336102-po3c3b4877nampqnbc7lsef97g9n71r1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "644607336102-vf726s3jogtign0f87qcvorfkf6u95fo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.summ"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644607336102:android:f5e51efb55651c7d809e67",
+        "android_client_info": {
+          "package_name": "com.mycompany.summazer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "644607336102-po3c3b4877nampqnbc7lsef97g9n71r1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDInoMuDWN52zcy3xoXeHwPrVVFlGT33Jw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "644607336102-po3c3b4877nampqnbc7lsef97g9n71r1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "644607336102-vf726s3jogtign0f87qcvorfkf6u95fo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.summ"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
